@@ -15,7 +15,7 @@
  
 <div align="center">
 
- ${\textsf{\color{#ff3030} -->  }}$     [MY ATA](https://flankersflankk.atabook.org) ${\textsf{\color{#ff3030} -->  }}$     [MY LURK ME](https://scout.lurk.me/)
+ ${\textsf{\color{#ff3030} -->  }}$     [MY ATA](https://literallyscout.atabook.org) ${\textsf{\color{#ff3030} -->  }}$     [MY LURK ME](https://scout.lurk.me/)
 
 
 
